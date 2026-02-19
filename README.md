@@ -1,31 +1,23 @@
-# Python Data Analytics Portfolio
+# Instacart Python Analysis
 
 ## Project Overview
-This repository contains Python projects developed during my Data Analytics program. 
-The projects demonstrate my ability to clean, analyze, and visualize data using Python.
+This project analyzes Instacart customer behavior using Python (pandas, matplotlib). 
+The goal is to profile customers, analyze spending patterns, and provide insights for marketing strategies.
 
-## Skills Demonstrated
-- Data cleaning and transformation with Pandas
-- Data visualization using Matplotlib and Seaborn
-- Statistical analysis and descriptive metrics
-- Time-series analysis and forecasting
-- Predictive modeling and machine learning
-- Writing clean, well-documented code in Jupyter Notebooks
+## Repository Structure
+- `01_Project_Management` - Project brief and notes.
+- `02_Data_Prepared` - Prepared datasets (`.pkl` files).
+- `03_Scripts` - Jupyter notebooks with Python analysis.
+- `04_Analysis` - Visualizations (charts/plots exported from notebooks).
+- `05_Reports` - Final Excel report with results and recommendations.
 
-## Dataset Information
-- Datasets used in these projects simulate customer, sales, and population data.
-- Data sources: internal program datasets
+## Key Python Concepts Used
+- Data cleaning and wrangling using pandas
+- Customer profiling based on age, dependents, and spending
+- Aggregation and grouping
+- Visualization using matplotlib
+- Exporting cleaned datasets and visualizations
 
-## Key Projects
-- **Population Flow Analysis** – Analyzing population trends and migration patterns
-- **Sales Forecasting** – Predicting future sales using historical data
-- **Customer Segmentation** – Grouping customers based on behavior and purchase patterns
+## How to Use
+1. Clone the repository:
 
-## Tools Used
-- Python 3.x
-- Jupyter Notebooks
-- Pandas, NumPy, Matplotlib, Seaborn
-- GitHub for version control and portfolio sharing
-
-## About Me
-Aspiring Data Analyst with strong SQL and Python skills, focused on turning data into actionable business insights.
