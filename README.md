@@ -18,6 +18,5 @@ The goal is to profile customers, analyze spending patterns, and provide insight
 - Visualization using matplotlib
 - Exporting cleaned datasets and visualizations
 
-## How to Use
-1. Clone the repository:
+
 
